@@ -8,3 +8,7 @@ h1, h2, h3, h4, p{
 #topBar{
     height:10%;
 }
+
+#spacer{
+    background-color: rgb(252, 70, 70);
+}
